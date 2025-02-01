@@ -8,6 +8,7 @@ class VacantbuildingApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// This empty test verifies that the Spring context can load successfully
 	}
 
 }
